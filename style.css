@@ -1,0 +1,23 @@
+h1{
+     background-color:purple;
+     color:gold;
+     border-radius:30px;
+     text-align: center;
+ }
+ body {
+  background-color:silver;
+  margin-bottom: 70px;
+ }
+ button{
+ background-color:purple;
+     color:gold;
+     border-radius:30px;
+  margin-left: 60px;
+ }
+#newer{
+     background-color: purple;
+     color:gold;
+     }
+a {
+ color:aqua;
+}
